@@ -1,5 +1,4 @@
 # Despertador con python
-
 from datetime import datetime
 from playsound import playsound
 
@@ -23,4 +22,3 @@ while True:
                     print('Despierta')
                     playsound('marin_hox.mp3')
                     break
-

@@ -1,5 +1,4 @@
 # Creando acrononimos con la primera letra de cada palabra
-
 user_imput = str(input("Escriba una frase"))
 text = user_imput.split()
 a = ''
